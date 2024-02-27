@@ -1,4 +1,4 @@
-[! [MasterHead] (https://hizliresim.com/g65mepc)
+[! [MasterHead](https://hizliresim.com/g65mepc)
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
