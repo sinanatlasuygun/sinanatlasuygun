@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yelbegen7" alt="yelbegen7" /></a> </p>
-
 - 🔭 I’m currently working on [eternaLib](https://github.com/Design-Project-OSE/EternaLib)
 
 - 🌱 I’m currently learning **Flutter,Pytorch**
@@ -25,6 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelbegen7&show_icons=true&locale=en&layout=compact" alt="yelbegen7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelbegen7&show_icons=true&locale=en" alt="yelbegen7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yelbegen7&" alt="yelbegen7" /></p>
-
