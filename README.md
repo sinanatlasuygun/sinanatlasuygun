@@ -1,4 +1,4 @@
-[! [MasterHead](https://www.pinterest.com/pin/star-wars-darth-vader-gif-starwars-darthvader-theforceunleashed-discover-share-gifs--862369028643386992/)
+[![MasterHead](https://www.pinterest.com/pin/star-wars-darth-vader-gif-starwars-darthvader-theforceunleashed-discover-share-gifs--862369028643386992/)
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
