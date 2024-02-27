@@ -1,4 +1,4 @@
-[![Profil_gif](https://i.pinimg.com/originals/08/71/a1/0871a1ba4941f5d9eac46fd40e09f6a1.gif)
+[![Profil_gif](https://i.pinimg.com/originals/08/71/a1/0871a1ba4941f5d9eac46fd40e09f6a1.gif)]
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
