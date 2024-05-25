@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://giffiles.alphacoders.com/295/2955.gif](https://giffiles.alphacoders.com/295/2955.gif)" width="400" height="300" />
+  <img src="[https://giphy.com/embed/W6z6tsc5N1NAs](https://giphy.com/embed/W6z6tsc5N1NAs)" width="400" height="300" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
