@@ -1,8 +1,7 @@
 <p align="center">
   <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/W6z6tsc5N1NAs)" width="480" height="300" />
-  </p>
-
 </p>
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/W6z6tsc5N1NAs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/owl-hoot-W6z6tsc5N1NAs">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
 
