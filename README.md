@@ -1,5 +1,5 @@
 <p align="center">
-  [via GIPHY](https://giphy.com/gifs/owl-hoot-W6z6tsc5N1NAs)
+  [via GIPHY]([https://giphy.com/gifs/owl-hoot-W6z6tsc5N1NAs](https://giffiles.alphacoders.com/295/2955.gif))
 </p>
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
