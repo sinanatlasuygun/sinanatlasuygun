@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://giphy.com/embed/W6z6tsc5N1NAs](https://giphy.com/embed/W6z6tsc5N1NAs)" width="400" height="300" />
+  ![2955](https://github.com/YELBEGEN7/YELBEGEN7/assets/64197926/d0f9eff5-e03f-487d-8eb3-9da28d905e97)
 </p>
 
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
