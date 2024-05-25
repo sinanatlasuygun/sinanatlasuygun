@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=![2955](https://github.com/YELBEGEN7/YELBEGEN7/assets/64197926/d0f9eff5-e03f-487d-8eb3-9da28d905e97)/>
+   <img src="https://github.com/YELBEGEN7/YELBEGEN7/assets/64197926/d0f9eff5-e03f-487d-8eb3-9da28d905e97" alt="2955"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
