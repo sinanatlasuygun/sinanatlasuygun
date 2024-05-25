@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/08/71/a1/0871a1ba4941f5d9eac46fd40e09f6a1.gif](https://giffiles.alphacoders.com/295/2955.gif)" />
+  
+  <iframe src="https://giphy.com/embed/W6z6tsc5N1NAs" width="480" height="309" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/owl-hoot-W6z6tsc5N1NAs">via GIPHY</a></p>
 </p>
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
 <h3 align="center">I am improving my skills in software development with confidence.</h3>
