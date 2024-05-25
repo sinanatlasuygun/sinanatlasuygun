@@ -1,5 +1,6 @@
 <p align="center">
   <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/W6z6tsc5N1NAs)" width="480" height="300" />
+  </p>
 
 </p>
 <h1 align="center">Hi 👋, I'm Sinan Uyğun</h1>
