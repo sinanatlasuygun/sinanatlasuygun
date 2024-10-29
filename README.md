@@ -20,7 +20,7 @@
 
 <h3 align="left">Organization</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sinanuygun](https://github.com/Design-Project-OSE)" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/147395020?s=400&u=e0ab51995a7588989672146d4b55f0c153d45d59&v=4" alt="sinanuygun" height="30" width="40" /></a>
+<a href="https://github.com/Design-Project-OSE" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/147395020?s=400&u=e0ab51995a7588989672146d4b55f0c153d45d59&v=4" alt="sinanuygun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
