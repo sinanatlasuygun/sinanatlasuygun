@@ -1,8 +1,8 @@
-<h2 align="left">Hi ! My name is Sinan UYĞUN and I'm Programmer...</h2>
+<h2 align="center">Hi ! My name is Sinan UYĞUN and I'm Programmer...</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="sinan_uygun@windowslive.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -64,12 +64,4 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kroenen&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/315ab3ok4ty5y2w45v5zkgkctsw4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ab3ok4ty5y2w45v5zkgkctsw4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
